@@ -1,0 +1,118 @@
+{
+  "students": [
+    {
+      "id": "001",
+      "studentName": "Buse Ugras",
+      "instructor": "Orkun Durmaz",
+      "course": "Frontend Dev"
+    },
+    {
+      "id": "002",
+      "studentName": "Melis Eren",
+      "instructor": "Orkun Durmaz",
+      "course": "Frontend Dev"
+    },
+    {
+      "studentName": "Possimus qui sunt ",
+      "instructor": "Libero unde incidunt",
+      "course": "Accusamus incididunt",
+      "id": "IoxlFhQ"
+    }
+  ],
+  "courses": [
+    {
+      "courseName": "Frontend Dev",
+      "duration": 200,
+      "description": "Lorem ipsum dolor"
+    },
+    {
+      "courseName": ".Net Dev",
+      "duration": 320,
+      "description": "Lorem ipsum dolor"
+    },
+    {
+      "courseName": "React Native",
+      "duration": 120,
+      "description": "Lorem ipsum dolor"
+    }
+  ],
+  "register": [
+    {
+      "fullName": "Buse",
+      "email": "busesekerr96@gmail.com",
+      "userName": "buseugrs",
+      "password": "buse",
+      "id": 1
+    },
+    {
+      "fullName": "Xavier Swanson",
+      "email": "bebaxo@mailinator.com",
+      "userName": "lezepivy",
+      "password": "Pa$$w0rd!",
+      "id": 4
+    },
+    {
+      "fullName": "Jane Blankenship",
+      "email": "tefe@mailinator.com",
+      "userName": "nogyr",
+      "password": "Pa$$w0rd!",
+      "id": 5
+    },
+    {
+      "fullName": "Simone Nicholson",
+      "email": "wimu@mailinator.com",
+      "userName": "fugoz",
+      "password": "Pa$$w0rd!",
+      "id": 6
+    },
+    {
+      "fullName": "Nerea Colon",
+      "email": "nasumepyx@mailinator.com",
+      "userName": "nygasepyz",
+      "password": "Pa$$w0rd!",
+      "id": 7
+    },
+    {
+      "fullName": "Akeem Mcintosh",
+      "email": "duzaz@mailinator.com",
+      "userName": "ruzuc",
+      "password": "Pa$$w0rd!",
+      "id": 8
+    },
+    {
+      "fullName": "Callum Deleon",
+      "email": "jirazobij@mailinator.com",
+      "userName": "punixije",
+      "password": "Pa$$w0rd!",
+      "id": 9
+    },
+    {
+      "fullName": "Cyrus Joyce",
+      "email": "mice@mailinator.com",
+      "userName": "fulybako",
+      "password": "Pa$$w0rd!",
+      "id": 10
+    },
+    {
+      "fullName": "Lael Nash",
+      "email": "fiqinacy@mailinator.com",
+      "userName": "xekukyle",
+      "password": "Pa$$w0rd!",
+      "id": 11
+    },
+    {
+      "fullName": "Raymond Schwartz",
+      "email": "ceracyk@mailinator.com",
+      "userName": "golymugu",
+      "password": "Pa$$w0rd!",
+      "id": 12
+    },
+    {
+      "fullName": "Calvin Barrera",
+      "email": "foluvy@mailinator.com",
+      "userName": "mubam",
+      "password": "Pa$$w0rd!",
+      "id": 13
+    }
+  ]
+}
